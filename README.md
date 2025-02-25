@@ -1,2 +1,2 @@
-# CORSet
-CORS Proof of Concept
+# CORSET
+CORS Exploit Tactics
